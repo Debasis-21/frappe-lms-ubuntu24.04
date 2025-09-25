@@ -173,6 +173,7 @@ bench start
 bench new-app library_management
 ```
 - Creates a custom app named library_management
+
 You should get some prompts, and output like the following. You can enter information manually, or press enter to select the defaults
 ```
 App Title (default: Library Management):
